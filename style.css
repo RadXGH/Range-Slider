@@ -1,0 +1,31 @@
+html {
+    background-color: rgb(73, 73, 73);
+    color: white;
+    text-align: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+.title {
+    background-color: rgb(121, 0, 0);
+    padding: 50px;
+}
+
+.header {
+    padding: 50px;
+}
+
+.header .text {
+    padding-right: 30px;
+    font-size: 21px;
+}
+
+.picture-body {
+    padding: 50px;
+}
+
+.picture-body img {
+    max-width: 100%;
+    height: auto;
+    border: 0px solid orange;
+    box-shadow: 0 0 0 red;
+}
